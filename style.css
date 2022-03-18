@@ -1,0 +1,29 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+#form-holder {
+    padding: 50px 30px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.form-item-last {
+    margin: 20px;
+}
+
+.form-item {
+    margin: 20px
+}
+
+label {
+    margin-right: 10px;
+    display: block;
+}
